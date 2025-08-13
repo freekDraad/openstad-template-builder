@@ -1,0 +1,18 @@
+{
+  "todo": {
+    "checkbox-group": {
+      "padding-block-end": {
+        "value": "{draad.space.block.beetle}",
+        "type": "spacing"
+      },
+      "padding-block-start": {
+        "value": "{draad.space.block.beetle}",
+        "type": "spacing"
+      },
+      "row-gap": {
+        "value": "{draad.space.row.rat}",
+        "type": "spacing"
+      }
+    }
+  }
+}

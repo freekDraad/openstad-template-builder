@@ -1,0 +1,88 @@
+{
+  "todo": {
+    "task-list": {
+      "color": {
+        "type": "color",
+        "value": "{utrecht.document.color}"
+      },
+      "marker": {
+        "checked": {
+          "color": {
+            "type": "color",
+            "value": "{draad.color.white}"
+          },
+          "background-color": {
+            "type": "color",
+            "value": "{draad.color.green.100}"
+          },
+          "border-color": {
+            "type": "color",
+            "value": "transparent"
+          }
+        },
+        "size": {
+          "value": "{draad.size.xs}",
+          "type": "sizing"
+        },
+        "icon": {
+          "size": {
+            "value": "{draad.size.icon.sm}",
+            "type": "sizing"
+          }
+        },
+        "border-width": {
+          "value": "{utrecht.form-control.border-width}",
+          "type": "borderWidth"
+        },
+        "not-checked": {
+          "background-color": {
+            "type": "color",
+            "value": "{utrecht.form-control.read-only.background-color}"
+          },
+          "border-color": {
+            "type": "color",
+            "value": "{utrecht.form-control.read-only.border-color}"
+          }
+        },
+        "border-radius": {
+          "value": "0px",
+          "type": "borderRadius"
+        }
+      },
+      "font-family": {
+        "value": "{utrecht.document.font-family}",
+        "type": "fontFamilies"
+      },
+      "font-size": {
+        "value": "{utrecht.document.font-size}",
+        "type": "fontSizes"
+      },
+      "font-weight": {
+        "value": "{utrecht.document.font-weight}",
+        "type": "fontWeights"
+      },
+      "line-height": {
+        "value": "{utrecht.document.line-height}",
+        "type": "lineHeights"
+      },
+      "item": {
+        "column-gap": {
+          "value": "{draad.space.column.mouse}",
+          "type": "spacing"
+        },
+        "margin-block-end": {
+          "value": "{draad.space.block.ant}",
+          "type": "spacing"
+        },
+        "margin-block-start": {
+          "value": "{draad.space.block.ant}",
+          "type": "spacing"
+        }
+      },
+      "row-gap": {
+        "value": "{draad.space.row.rat}",
+        "type": "spacing"
+      }
+    }
+  }
+}

@@ -1,0 +1,170 @@
+{
+  "utrecht": {
+    "alert": {
+      "heading": {
+        "font-family": {
+          "value": "{utrecht.heading.font-family}",
+          "type": "fontFamilies"
+        },
+        "font-weight": {
+          "value": "{utrecht.heading.font-weight}",
+          "type": "fontWeights"
+        },
+        "line-height": {
+          "value": "{draad.typography.line-height.sm}",
+          "type": "lineHeights"
+        },
+        "font-size": {
+          "value": "{draad.typography.font-size.xl}",
+          "type": "fontSizes"
+        }
+      },
+      "column-gap": {
+        "value": "{draad.space.column.snail}",
+        "type": "spacing"
+      },
+      "border-width": {
+        "value": "{draad.border-width.md}",
+        "type": "borderWidth"
+      },
+      "padding-block-end": {
+        "value": "{draad.space.block.snail}",
+        "type": "spacing"
+      },
+      "padding-block-start": {
+        "value": "{draad.space.block.snail}",
+        "type": "spacing"
+      },
+      "padding-inline-end": {
+        "value": "{draad.space.inline.mouse}",
+        "type": "spacing"
+      },
+      "padding-inline-start": {
+        "value": "{draad.space.inline.mouse}",
+        "type": "spacing"
+      },
+      "informative": {
+        "background-color": {
+          "value": "{utrecht.feedback.informative.background-color}",
+          "type": "color"
+        },
+        "border-color": {
+          "value": "{utrecht.feedback.informative.border-color}",
+          "type": "color"
+        },
+        "color": {
+          "value": "{utrecht.document.color}",
+          "type": "color"
+        }
+      },
+      "icon": {
+        "informative": {
+          "color": {
+            "value": "{utrecht.feedback.informative.color}",
+            "type": "color"
+          }
+        },
+        "padding-block-end": {
+          "value": "{draad.space.block.snail}",
+          "type": "spacing"
+        },
+        "padding-block-start": {
+          "value": "{draad.space.block.snail}",
+          "type": "spacing"
+        },
+        "padding-inline-end": {
+          "value": "0px",
+          "type": "spacing"
+        },
+        "padding-inline-start": {
+          "value": "0px",
+          "type": "spacing"
+        },
+        "positive": {
+          "color": {
+            "value": "{utrecht.feedback.positive.color}",
+            "type": "color"
+          }
+        },
+        "negative": {
+          "color": {
+            "value": "{utrecht.feedback.negative.color}",
+            "type": "color"
+          }
+        },
+        "warning": {
+          "color": {
+            "value": "{utrecht.feedback.warning.color}",
+            "type": "color"
+          }
+        },
+        "size": {
+          "type": "sizing",
+          "value": "{utrecht.icon.functional.size}"
+        }
+      },
+      "negative": {
+        "background-color": {
+          "value": "{utrecht.feedback.negative.background-color}",
+          "type": "color"
+        },
+        "border-color": {
+          "value": "{utrecht.feedback.negative.border-color}",
+          "type": "color"
+        },
+        "color": {
+          "value": "{utrecht.document.color}",
+          "type": "color"
+        }
+      },
+      "positive": {
+        "background-color": {
+          "value": "{utrecht.feedback.positive.background-color}",
+          "type": "color"
+        },
+        "border-color": {
+          "value": "{utrecht.feedback.positive.border-color}",
+          "type": "color"
+        },
+        "color": {
+          "value": "{utrecht.document.color}",
+          "type": "color"
+        }
+      },
+      "warning": {
+        "background-color": {
+          "value": "{utrecht.feedback.warning.background-color}",
+          "type": "color"
+        },
+        "border-color": {
+          "value": "{utrecht.feedback.warning.border-color}",
+          "type": "color"
+        },
+        "color": {
+          "value": "{utrecht.document.color}",
+          "type": "color"
+        }
+      },
+      "message": {
+        "row-gap": {
+          "value": "{draad.space.row.snail}",
+          "type": "spacing"
+        },
+        "padding-block-end": {
+          "value": "{draad.space.block.snail}",
+          "type": "spacing"
+        },
+        "padding-block-start": {
+          "value": "{draad.space.block.beetle}",
+          "type": "spacing"
+        }
+      },
+      "content": {
+        "row-gap": {
+          "value": "{draad.space.row.snail}",
+          "type": "spacing"
+        }
+      }
+    }
+  }
+}

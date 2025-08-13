@@ -1,0 +1,32 @@
+{
+  "todo": {
+    "form-field-option-label": {
+      "color": {
+        "value": "{utrecht.form-control.color}",
+        "type": "color"
+      },
+      "font-size": {
+        "value": "{utrecht.document.font-size}",
+        "type": "fontSizes"
+      },
+      "line-height": {
+        "value": "{utrecht.document.line-height}",
+        "type": "lineHeights"
+      },
+      "font-family": {
+        "value": "{utrecht.document.font-family}",
+        "type": "fontFamilies"
+      },
+      "font-weight": {
+        "value": "{utrecht.document.font-weight}",
+        "type": "fontWeights"
+      },
+      "disabled": {
+        "color": {
+          "value": "{draad.color.gray.600}",
+          "type": "color"
+        }
+      }
+    }
+  }
+}

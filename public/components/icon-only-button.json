@@ -1,0 +1,22 @@
+{
+  "todo": {
+    "icon-only-button": {
+      "padding-block-end": {
+        "value": "{draad.space.block.snail}",
+        "type": "spacing"
+      },
+      "padding-block-start": {
+        "value": "{draad.space.block.snail}",
+        "type": "spacing"
+      },
+      "padding-inline-end": {
+        "value": "{draad.space.inline.snail}",
+        "type": "spacing"
+      },
+      "padding-inline-start": {
+        "value": "{draad.space.inline.snail}",
+        "type": "spacing"
+      }
+    }
+  }
+}

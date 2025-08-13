@@ -1,0 +1,136 @@
+{
+  "utrecht": {
+    "heading-1": {
+      "color": {
+        "type": "color",
+        "value": "{utrecht.heading.color}"
+      },
+      "font-family": {
+        "value": "{utrecht.heading.font-family}",
+        "type": "fontFamilies"
+      },
+      "font-weight": {
+        "value": "{utrecht.heading.font-weight}",
+        "type": "fontWeights"
+      },
+      "line-height": {
+        "value": "{draad.typography.line-height.sm}",
+        "type": "lineHeights"
+      },
+      "font-size": {
+        "value": "{draad.typography.font-size.3xl}",
+        "type": "fontSizes"
+      }
+    },
+    "heading-2": {
+      "color": {
+        "type": "color",
+        "value": "{utrecht.heading.bright}"
+      },
+      "font-family": {
+        "value": "{utrecht.heading.font-family}",
+        "type": "fontFamilies"
+      },
+      "font-weight": {
+        "value": "{utrecht.heading.font-weight}",
+        "type": "fontWeights"
+      },
+      "line-height": {
+        "value": "{draad.typography.line-height.sm}",
+        "type": "lineHeights"
+      },
+      "font-size": {
+        "value": "{draad.typography.font-size.2xl}",
+        "type": "fontSizes"
+      }
+    },
+    "heading-3": {
+      "color": {
+        "type": "color",
+        "value": "{utrecht.heading.bright}"
+      },
+      "font-family": {
+        "value": "{utrecht.heading.font-family}",
+        "type": "fontFamilies"
+      },
+      "font-weight": {
+        "value": "{utrecht.heading.font-weight}",
+        "type": "fontWeights"
+      },
+      "line-height": {
+        "value": "{draad.typography.line-height.sm}",
+        "type": "lineHeights"
+      },
+      "font-size": {
+        "value": "{draad.typography.font-size.xl}",
+        "type": "fontSizes"
+      }
+    },
+    "heading-4": {
+      "color": {
+        "type": "color",
+        "value": "{utrecht.heading.bright}"
+      },
+      "font-family": {
+        "value": "{utrecht.heading.font-family}",
+        "type": "fontFamilies"
+      },
+      "font-weight": {
+        "value": "{utrecht.heading.font-weight}",
+        "type": "fontWeights"
+      },
+      "line-height": {
+        "value": "{draad.typography.line-height.md}",
+        "type": "lineHeights"
+      },
+      "font-size": {
+        "value": "{draad.typography.font-size.lg}",
+        "type": "fontSizes"
+      }
+    },
+    "heading-5": {
+      "color": {
+        "type": "color",
+        "value": "{utrecht.heading.bright}"
+      },
+      "font-family": {
+        "value": "{utrecht.heading.font-family}",
+        "type": "fontFamilies"
+      },
+      "font-weight": {
+        "value": "{utrecht.heading.font-weight}",
+        "type": "fontWeights"
+      },
+      "line-height": {
+        "value": "{draad.typography.line-height.md}",
+        "type": "lineHeights"
+      },
+      "font-size": {
+        "value": "{draad.typography.font-size.md}",
+        "type": "fontSizes"
+      }
+    },
+    "heading-6": {
+      "color": {
+        "type": "color",
+        "value": "{utrecht.heading.bright}"
+      },
+      "font-family": {
+        "value": "{utrecht.heading.font-family}",
+        "type": "fontFamilies"
+      },
+      "font-weight": {
+        "value": "{utrecht.heading.font-weight}",
+        "type": "fontWeights"
+      },
+      "line-height": {
+        "value": "{draad.typography.line-height.md}",
+        "type": "lineHeights"
+      },
+      "font-size": {
+        "value": "{draad.typography.font-size.sm}",
+        "type": "fontSizes"
+      }
+    }
+  }
+}

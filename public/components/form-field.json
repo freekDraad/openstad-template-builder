@@ -1,0 +1,20 @@
+{
+  "utrecht": {
+    "form-field": {
+      "invalid": {
+        "border-inline-start-color": {
+          "value": "{utrecht.feedback.negative.border-color}",
+          "type": "color"
+        },
+        "border-inline-start-width": {
+          "value": "{draad.border-width.md}",
+          "type": "borderWidth"
+        },
+        "padding-inline-start": {
+          "value": "{draad.space.inline.mouse}",
+          "type": "spacing"
+        }
+      }
+    }
+  }
+}

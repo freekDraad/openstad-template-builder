@@ -1,0 +1,40 @@
+{
+  "utrecht": {
+    "ordered-list": {
+      "padding-inline-start": {
+        "value": "{draad.space.inline.rabbit}",
+        "type": "spacing"
+      },
+      "color": {
+        "type": "color",
+        "value": "{draad.color.blue.100}"
+      },
+      "font-family": {
+        "value": "{utrecht.document.font-family}",
+        "type": "fontFamilies"
+      },
+      "font-weight": {
+        "value": "{utrecht.document.font-weight}",
+        "type": "fontWeights"
+      },
+      "font-size": {
+        "value": "{utrecht.document.font-size}",
+        "type": "fontSizes"
+      },
+      "line-height": {
+        "value": "{utrecht.document.line-height}",
+        "type": "lineHeights"
+      },
+      "item": {
+        "margin-block-end": {
+          "value": "{draad.space.block.ant}",
+          "type": "spacing"
+        },
+        "margin-block-start": {
+          "value": "{draad.space.block.ant}",
+          "type": "spacing"
+        }
+      }
+    }
+  }
+}
