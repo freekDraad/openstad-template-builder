@@ -6,9 +6,10 @@ export const metadata = {
   description: "A powerful tool for managing and exporting design tokens from Figma Token Studio",
   keywords: "figma, tokens, design system, css variables, token studio",
   authors: [{ name: "Draad Tokens Editor" }],
-  viewport: "width=device-width, initial-scale=1",
     generator: 'v0.app'
 }
+
+export const viewport = { width: "device-width", initialScale: 1 }
 
 export default function RootLayout({
   children,
