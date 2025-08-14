@@ -69,17 +69,17 @@ export function useTokens() {
       ];
 
       const [brandJson, commonJson, ...componentJsons] = await Promise.all([
-        fetch('/brand.json').then((res) => res.ok ? res.json() : {}),
-        fetch('/common.json').then((res) => res.ok ? res.json() : {}),
+        fetch(`${process.env.NEXT_PUBLIC_BASE_PATH || "/openstad-template-builder"}/brand.json`).then((res) => res.ok ? res.json() : {}),
+        fetch(`${process.env.NEXT_PUBLIC_BASE_PATH || "/openstad-template-builder"}/common.json`).then((res) => res.ok ? res.json() : {}),
         ...componentFiles.map((file) =>
-          fetch(`/components/${file}`)
+          fetch(`${process.env.NEXT_PUBLIC_BASE_PATH || "/openstad-template-builder"}/components/${file}`)
             .then((res) => res.ok ? res.json() : {})
             .catch(() => ({}))
         ),
       ]);
 
       // Radio-button.json apart fetchen
-      const radioButtonJson = await fetch('/radio-button.json')
+      const radioButtonJson = await fetch(`${process.env.NEXT_PUBLIC_BASE_PATH || "/openstad-template-builder"}/radio-button.json`)
         .then((res) => res.ok ? res.json() : {})
         .catch(() => ({}));
 
