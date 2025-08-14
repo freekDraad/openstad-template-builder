@@ -92,7 +92,7 @@ export function useTokens() {
       });
       components['radio-button'] = tokenParser(radioButtonJson);
 
-      setTokens({ brand, common, components });
+      setTokens({ brand, common, components, radiobutton: tokenParser(radioButtonJson) });
     }
 
     fetchTokens();
